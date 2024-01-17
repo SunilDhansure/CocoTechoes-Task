@@ -1,6 +1,6 @@
 # Question Task No- 12
 
-Question 12:
+`Question 12: `
 
 Create data of 10 people who speak upto three languages. For example
 1. person 1 (hindi, english, gujarati)
@@ -18,3 +18,6 @@ and how many people will they need to translate? There can be multiple lists of 
 the 10 persons listed above. Given two persons as input, the program should be able to give
 correct answers.
 Hint: Reduction of one array into smaller arrays
+
+
+- This question is solved in `Javascript`
